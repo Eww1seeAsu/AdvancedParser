@@ -24,25 +24,3 @@ cd AdvancedParser
 pip install -r requirements.txt
 playwright install
 python main.py
-
-🛠 Технологии
-Python 3.10+
-
-Playwright
-
-FastAPI
-
-SQLite
-
-Aiohttp
-
-Capsolver
-
-📞 Контакты
-Telegram: @Eww1seeAsu
-
-GitHub: github.com/Eww1seeAsu
-
-Kwork: kwork.ru/user/eww1seeasu
-
-Freelance: freelance.ru/Eww1seeAsu
